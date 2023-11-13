@@ -1,5 +1,15 @@
 Student name: Laith Mohammed Ameen Noman Al-hemyari
 Student number: 684239
 Student class: IT1A
-GitHub Repository: https://github.com/lai67/Final-project.git
-GitHub Pages URL: your github pages URL
+GitHub Repository: https://github.com/lai67/assessment2324.git
+GitHub Pages URL: https://lai67.github.io/assessment2324/
+
+Note:
+I would like to outline a few points regarding my project submission. Firstly, I began working on this project in week 6. However, I was not initially aware of the requirement to upload all the project files to GitHub. It was only two days ago that I learned about this, and I promptly made the necessary changes to the code.
+
+Today, when I was preparing to submit the project files, I realized that the folder should have been named "assessment2324," but mine was named "final project." Since I did not want to alter the repository, I created another folder with the correct name and duplicated the folder structure. I apologize for any inconvenience this may cause. I invested a significant amount of effort into this project and would not want a minor mistake to ruin it.
+
+I'd like to address one more point regarding my web design project. None of the pages in my project include a table. However, in order to fulfill your requirements, I added a table to the "contact" page, even though it may not serve a specific purpose.
+
+Thank you in advance,
+Laith Alhemyari
