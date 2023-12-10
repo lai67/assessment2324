@@ -485,7 +485,7 @@ html {
     position: fixed;
     bottom: 3rem;
     right: 3rem;
-    z-index: 999;
+    z-index: 9999;
   }
   
   #cookies .cookieCtrl {
