@@ -81,6 +81,9 @@ html {
   body a:visited {
     color: #0B39FF;
   }
+  body a:active {
+    color: rgb(155, 148, 233);
+  }
 
   /* main style start here*/
 
